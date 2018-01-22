@@ -1,4 +1,9 @@
-# MS04-12 Routes (No Laravel)
+# MS04-16-Routing
+
+![App1.vue](../assets/a.png?raw=true)
+![App2.vue](../assets/b.png?raw=true)
+![App3.vue](../assets/c.png?raw=true)
+
 **Note: edit `main.js` to switch among the following:**
 
 * `App1.vue` (Lectures 222-232)
